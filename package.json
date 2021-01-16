@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "404 page",
   "scripts": {
+	"prepublish": "npx webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jinzhe Zeng",
