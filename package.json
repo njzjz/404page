@@ -9,7 +9,7 @@
   "author": "Jinzhe Zeng",
   "license": "ISC",
   "devDependencies": {
-    "css-loader": "6.3.0",
+    "css-loader": "6.10.0",
     "css-minimizer-webpack-plugin": "5.0.1",
     "mini-css-extract-plugin": "2.0.0",
     "webpack": "5.50.0",
